@@ -1,7 +1,11 @@
 ---
 title: "Portfolio project number 1"
-excerpt: "Short description of portfolio item number <br/><img scr='/Project1/cable.jpg'>"
+excerpt: " <br/><img scr='/Project1/cable.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Halloween Pumpkin Graph
+Created a JavaScript program that generates a Halloween-themed pumpkin
+Used Randomizer for colors.
+Learned how to create pictures with JavaScript.
+Improved debugging and problem-solving skills
