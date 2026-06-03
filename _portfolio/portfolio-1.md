@@ -4,7 +4,8 @@ excerpt: "Pumpkin <br/><img scr='/images/Project1.png'>"
 collection: portfolio
 ---
 
-## Halloween Pumpkin Graph
+Halloween Pumpkin Graph
+======
 - Created a JavaScript program that generates a Halloween-themed pumpkin
 - Used Randomizer for colors
 - Learned how to create pictures with JavaScript
