@@ -4,7 +4,8 @@ excerpt: "Flower <br/><img scr='/images/Project3.png'>"
 collection: portfolio
 ---
 
-## Birth Flower
+Birth Flower
+======
 - Created a JavaScript program that tells people their birth flower, depending on what the user inputs
 - Used a list/array to store variables
 - Learned how to make code efficient
